@@ -1,0 +1,27 @@
+{
+  "access": [
+    {
+      "id": 9,
+      "system": {
+        "id": 1,
+        "name": "SAP",
+        "description": "ERP"
+      },
+      "profile": "Analista de Sistemas",
+      "create_date": "2023-03-03",
+      "is_active": false,
+      "block_date": "2023-03-03",
+      "user": {
+        "id": 2827,
+        "name": "Yuri da Silva Ferreira",
+        "email": "yuri.ferreira@misssilviamorizono.com.br",
+        "role": "SUPERVISOR TECNICO",
+        "office": "MSMO",
+        "department": "EDIFICIOS CORPORATIVOS",
+        "is_active": false,
+        "resignation_date": "2023-03-02",
+        "last_update": "2023-03-03"
+      }
+    }
+  ]
+}
